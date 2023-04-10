@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD in Computational Physics | Research Engineer @ <a href="https://www.sgr-paris.saint-gobain.com/">Saint-Gobain Research</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Paris, France</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a computational scientist with a prior background in mechanical engineering. During my time in academia, I have worked extensively in the domain of multiphase fluid dynamics, focusing on the complex flow physics of fluid fragmentation (droplets, sprays etc.) using both deterministic and stochastic modelling frameworks. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have significant experience in the development and numerical resolution of a variety of mathematical models (mainly coupled non-linear [PDEs](https://en.wikipedia.org/wiki/Partial_differential_equation)), as well as their large-scale parallel implementation on supercomputing infrastructure. In recent years, I've had the opportunity to add stochastic processes and probabilistic modelling techniques to my scientific computing toolkit. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my current role as a research scientist/engineer within the industrial R&D setup of a global leader in materials manufacturing, I develop computational models that tackle several physics and engineering challenges at the heart of large-scale and cutting edge industrial manufacturing processes. This includes working at the intersection of a wide array topics such as fluid dynamics, heat & mass transfer, thermal radiation, optimization, perturbation theory, numerical methods, experiment design etc. 
