@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Computational Physics | Research Engineer @ <a href="https://www.sgr-paris.saint-gobain.com/">Saint-Gobain Research</a>. 
+subtitle: PhD, Computational Physics | Research Engineer @ <a href="https://www.sgr-paris.saint-gobain.com/">Saint-Gobain Research</a>. 
 
 profile:
   align: right
